@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor and temporary files
+.vscode/
+*.tmp
+*.log
+
+# Local-only archives
+*.zip
